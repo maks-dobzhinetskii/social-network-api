@@ -1,0 +1,7 @@
+.idea
+.venv
+.gitignore
+.dockerignore
+Dockerfile
+README.md
+docker-compose.yml
